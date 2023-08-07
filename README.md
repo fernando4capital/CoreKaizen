@@ -1,2 +1,2 @@
-# CoreKaizen
+# Core Kaizen
 Core Kaizen Mentoring Program
